@@ -53,6 +53,8 @@ PSOC™ Edge E84 Evaluation Kit
 Touch-enabled display
 
 📸 Demo
+
+
 <img width="656" height="429" alt="Screenshot 2026-02-10 124023" src="https://github.com/user-attachments/assets/b98b2f5b-99ca-44d8-92b0-461a82819480" />
 
 📚 Key Learnings
