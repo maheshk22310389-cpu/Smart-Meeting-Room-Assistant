@@ -34,6 +34,10 @@ On-board Sensors
 
 DEEPCRAFT™ Edge AI Concepts
 
+![WhatsApp Image 2026-02-10 at 12 10 24 AM](https://github.com/user-attachments/assets/c51e593c-75b0-4e25-be43-37c41b866802)
+
+
+
 🧠 Key Features
 
 Interactive embedded GUI using LVGL
@@ -51,6 +55,9 @@ On-device processing
 PSOC™ Edge E84 Evaluation Kit
 
 Touch-enabled display
+
+![WhatsApp Image 2026-02-21 at 10 40 24 PM](https://github.com/user-attachments/assets/30106d04-c019-4684-b39c-b541c0f88fcd)
+
 
 📸 Demo
 
